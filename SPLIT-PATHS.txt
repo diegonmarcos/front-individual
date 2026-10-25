@@ -1,3 +1,0 @@
-a_Individual/cv_pdf
-a_Individual/cv_web
-a_Individual/landpage
