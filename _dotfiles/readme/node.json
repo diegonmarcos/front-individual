@@ -1,0 +1,68 @@
+{
+  "schema": "readme-node/v1",
+  "generated_by": "_git-repos-master readme-render.js nodeData() from projects-repos.json; DO NOT EDIT (node repos-sot.js sync-readmes)",
+  "name": "z-archived_front-individual",
+  "label": "z-archived_front-individual",
+  "code": "8.1.2.3",
+  "kind": "repo",
+  "variant": "archived",
+  "description": "Front group a_Individual (split from front-projects, #1072)",
+  "visibility": "public",
+  "url": "https://github.com/diegonmarcos/z-archived_front-individual",
+  "developer": "Z-archived",
+  "farm": "8.Archived",
+  "breadcrumb": [
+    {
+      "code": "8",
+      "kind": "area",
+      "label": "Archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1",
+      "kind": "project",
+      "label": "Z-archived",
+      "icon": "📦"
+    },
+    {
+      "code": "8.1.2",
+      "kind": "family",
+      "label": "Front",
+      "icon": ""
+    }
+  ],
+  "hub": {
+    "name": "z-archived-___",
+    "code": "8.0",
+    "url": "https://github.com/diegonmarcos/z-archived-___"
+  },
+  "base_dir": "git",
+  "members": [],
+  "tree": [
+    "├── 0_deployer (submodule)",
+    "├── 0_hub/",
+    "│   └── z-archived-___ (submodule)",
+    "└── a_Individual/",
+    "    ├── cv_pdf/",
+    "    │   ├── 0.spec/",
+    "    │   ├── 1.ops/",
+    "    │   ├── assets/",
+    "    │   ├── dist/",
+    "    │   ├── public/",
+    "    │   └── src/",
+    "    ├── cv_web/",
+    "    │   ├── 0.spec/",
+    "    │   ├── 1.ops/",
+    "    │   ├── dist/",
+    "    │   ├── public/",
+    "    │   └── src/",
+    "    └── landpage/",
+    "        ├── dist/",
+    "        ├── public/",
+    "        └── src/"
+  ],
+  "old_names": [
+    "front-individual"
+  ],
+  "history": "Superseded 2026-10-25 (#1196): its projects moved into cloud-me-pub-profiles-prf-prs (b_Profiles); renamed z-archived_front-individual, to be archived on GitHub (owner click)"
+}
